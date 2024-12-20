@@ -2,7 +2,7 @@
 <p>Este projeto tem como objetivo implementar uma classificação binária para identificar Nina, uma gata, utilizando a técnica de <b>Transfer<br> Learning com o modélo pre treinado MobileNetV2.</b></p>
 <br>
 <h3>--Ferramentas Utilizadas--</h3>
-<h4>Colab, Drive</h4>
+<h4>Google_Colab, Drive</h4>
 <br>
 <h2>Código Fonte<h2>
 <pre><code>
