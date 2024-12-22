@@ -19,7 +19,7 @@ base_model.trainable = False
 model = models.Sequential([
     base_model,
     layers.GlobalAveragePooling2D(),
-    layers.Dense(128, activation='relu'),
+    layers.Dense(128, activation='sigmoid'),
     layers.Dropout(0.5),
     layers.Dense(1, activation='softmax')
 ])
