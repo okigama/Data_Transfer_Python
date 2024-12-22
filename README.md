@@ -52,5 +52,5 @@ loss, accuracy = model.evaluate(val_generator)
 print(f"Loss: {loss}, Accuracy: {accuracy}")
 </code></pre>
 <br>
-<h1>--Melhorias futuras--</h1>
+<h2>--Melhorias futuras--</h2>
 <p>Ampliar o tamanho do dataset atualmente pequeno para permitir uma análise mais robusta e precisa.</p>
