@@ -7,7 +7,7 @@
 <h2>Código Fonte<h2>
 <pre><code>
 import tensorflow as tf
-from tensorflow.keras import layers, models
+from tensorflow.keras import projeto1_data-transferlayers, models
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from google.colab import drive
@@ -51,3 +51,6 @@ history = model.fit(
 loss, accuracy = model.evaluate(val_generator)
 print(f"Loss: {loss}, Accuracy: {accuracy}")
 </code></pre>
+<br>
+<h1>--Melhorias futuras--</h1>
+<p>Ampliar o tamanho do dataset atualmente pequeno para permitir uma análise mais robusta e precisa.</p>
