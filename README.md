@@ -53,4 +53,4 @@ print(f"Loss: {loss}, Accuracy: {accuracy}")
 </code></pre>
 <br>
 <h2>--Melhorias futuras--</h2>
-<p>Ampliar o tamanho do dataset atualmente pequeno para permitir uma análise mais robusta e precisa.</p>
+<h4>Ampliar o tamanho do dataset atualmente pequeno para permitir uma análise mais robusta e precisa.</h4>
